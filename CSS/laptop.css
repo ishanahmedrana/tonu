@@ -1,0 +1,310 @@
+@media (min-width:769px) and (max-width:1000px){
+    *{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        box-sizing: border-box;
+        outline: 0;
+        text-decoration: none;
+    }
+    .col-l-1 {width: 8.33%;
+        float: left;}
+        .col-l-1 {width: 16.66%;
+            float: left;}
+        .col-l-3 {width: 25%;
+            float: left;}
+        .col-l-4 {width: 33.33%;
+            float: left;}
+        .col-l-5 {width: 41.66%;
+            float: left;}
+        .col-l-6 {width: 50%;
+            float: left;}
+        .col-l-7 {width: 58.33%;
+            float: left;}
+        .col-l-8 {width: 66.66%;
+            float: left;}
+        .col-l-9 {width: 75%;
+            float: left;}
+        .col-l-10 {width: 83.33%;
+            float: left;}
+        .col-l-11 {width: 91.66%;
+            float: left;}
+        .col-l-12 {width: 100%;
+            float: left;}
+            
+    .container{
+        width: 90%;
+    margin: auto;
+    
+    }
+    .row{
+        width: 100%;
+        float: left;
+        /* padding: 015px 0px; */
+        /* padding: 0px 10px; */
+    }
+    .underline{
+        border-top: 2px solid #84a4bb;
+    width: 80px;
+    margin: 15px auto;
+    
+    }
+    header{
+        
+    }
+    nav{
+   
+    }
+    .logo-part{
+       
+    
+    
+    }
+    .menu-part{
+    
+    }
+    .menu-part ul {
+    
+   
+    
+    }
+    .menu-part li {
+       
+font-size: 27px;
+    }
+    .menu-part li:hover{
+    
+    }
+    .menu-part a{
+   
+font-size: 14px;
+   
+padding: 0px 0px;
+   
+}
+    .heropart {
+      
+        
+    }
+    
+    .heropart h1 {
+       
+        
+    }
+    .heropart button{
+       
+padding: 10px 10px;
+    }
+    .heropart button:hover{
+       
+    }  
+    #services{
+      
+        
+        
+    }
+    .service-writing-part{
+    
+        
+    
+    }
+    .service-writing-part h2{
+       
+    
+    }
+    
+        .service-logo-part-rana{
+            
+            height: 300px;
+            
+            
+        }
+        .service-logo-part-rana h2{
+           
+        }
+        .service-logo-part-rana p{
+         
+        }
+    
+    #our-team{
+        
+    }
+    
+     .team-title h2{
+        
+     }   
+     .team-title p{
+       
+     }
+    .team-class-all{
+       
+        
+    }
+    .team-class-all img{
+    width: 50%;
+    }
+    .team-class-all h2{
+      
+    }
+    
+    
+    .team-class-all p{
+        
+    
+    }
+    .team-class-all i{
+      
+    }
+    .COLOR{
+    
+    }
+    #skill{
+       
+       
+    }
+    .skill-written-part h1{
+    }
+    .skill-box{
+        
+    }  
+    
+    #portfolio{
+       
+       
+    }
+    .portfolio-written-part h1{ 
+       
+        
+    
+    }
+    
+    .portfolio-written-part p{
+    
+    }
+    .menu-part-2 {
+       
+    }
+    .menu-part-2 ul{
+        
+    }
+    .menu-part-2 li{
+        
+    }
+    .menu-part-2 li :hover{
+        
+    
+    }
+    .menu-part-2 a {
+    }
+    
+    .portfolio-box img{
+        width: 80%;
+    
+    }
+    .portfolio-box h3{
+        
+    }
+    .portfolio-box-part button{
+        
+    }
+    #ABOUT{
+       
+        
+    }
+    .about-written-part{
+ 
+    }
+    
+    
+    .about-box-img{
+    /* float:none; */
+    margin: 0px auto;
+    padding-bottom: 20px;
+    }
+    .about-writing-box{
+        /* float:none; */
+        /* margin: 0px auto; */
+        /* padding-bottom: 30px; */
+    }
+    .about-writing-box h4{
+    
+    }
+    .about-writing-box p{
+    
+    }
+    #getintouch{
+   
+    
+    }
+    
+    .get-in-touch-written-part h1{
+   
+    }
+    
+    .get-in-touch-written-part p{
+      
+    }
+    .get-in-touch-1{
+        
+
+    }
+    .form1-part{
+     
+margin-bottom: 15px;
+    }
+    .form1-part input[type="text"]{
+        
+padding: 17px 50px;
+        
+border-radius: 5px;
+    }
+    
+    .form2-part{
+        
+    }
+    .form2-part input[type="email"]{
+       
+padding: 15px 50px;
+       
+border-radius: 5px;
+    }
+    .get-in-touch-2 textarea{
+        
+padding: 5px 195px;
+        
+border-radius: 5px;
+    }
+        
+    
+    .get-in-touch-2 input{
+    
+    }
+    .get-in-touch-1 ::placeholder{
+        
+       
+    }
+    .get-in-touch-2 ::placeholder{
+       
+        
+    }
+    
+    
+    footer{
+   
+    
+    }
+    footer ul{
+    
+    }
+    footer ul li{
+    
+    
+    }
+    footer ul li a{
+        
+font-size: 15px;
+    }
+    footer ul li :hover{
+        
+    }  
+} 

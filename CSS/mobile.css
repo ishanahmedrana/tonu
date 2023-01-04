@@ -1,0 +1,336 @@
+@media(max-width:600px) {
+    *{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        box-sizing: border-box;
+        outline: 0;
+        text-decoration: none;
+    }
+    .col-s-1 {width: 8.33%;
+        float: left;}
+        .col-s-2 {width: 16.66%;
+            float: left;}
+        .col-s-3 {width: 25%;
+            float: left;}
+        .col-s-4 {width: 33.33%;
+            float: left;}
+        .col-s-5 {width: 41.66%;
+            float: left;}
+        .col-s-6 {
+            width: 50%;
+            float: left;
+            height: 310px;
+            }
+        .col-s-7 {width: 58.33%;
+            float: left;}
+        .col-s-8 {width: 66.66%;
+            float: left;}
+        .col-s-9 {width: 75%;
+            float: left;}
+        .col-s-10 {width: 83.33%;
+            float: left;}
+        .col-s-11 {width: 91.66%;
+            float: left;}
+        .col-s-12 {width: 100%;
+            float: left;}
+    .container{
+        width: 98%;
+        margin: auto;
+    }
+    .row{
+        width: 100%;
+        float: left;
+        padding: 8px 0px;
+    }
+    .underline{
+        border-top: 2px solid #84a4bb;
+        width: 50px;
+        margin: 15px auto;
+    }
+    
+    header{
+        
+    }
+    nav{
+   
+    }
+    .logo-part{
+    }
+    .menu-part{
+        position: relative;
+        bottom: 30px;
+    }
+    .menu-part ul {
+    
+   
+    
+    }
+    .menu-part li {
+       
+        font-size: 15px;
+    }
+    .menu-part li:hover{
+        
+    }
+    .menu-part a{
+   
+font-size: 15px;
+   
+}
+    .heropart {
+      
+        
+    }
+    
+    .heropart h1 {
+       
+font-size: 18px;
+    }
+    .heropart button{
+       
+padding: 8px 18px;
+    }
+    .heropart button:hover{
+       
+    }  
+    #services{
+      
+        
+        
+    }
+    .service-writing-part{
+    
+        
+    
+    }
+    .service-writing-part h2{
+       
+    
+    }
+    
+        .service-logo-part-rana{
+            
+            padding: 0px 10px;
+            
+            
+        }
+        .service-logo-part-rana h2{
+           
+        }
+        .service-logo-part-rana p{
+            font-weight: lighter;
+        }
+    
+    #our-team{
+        
+    }
+    
+     .team-title h2{
+        
+     }   
+     .team-title p{
+       
+     }
+    .team-class-all{
+       
+margin: 50px 0px;
+    }
+    .team-class-all img{
+    
+width: 48%;
+    }
+    .team-class-all h2{
+      
+    }
+    
+    
+    .team-class-all p{
+        
+    
+    }
+    .team-class-all i{
+      
+    }
+    .COLOR{
+    
+    }
+    #skill{
+       
+       
+    }
+    .skill-written-part h1{
+    }
+    .skill-box{
+        
+    }  
+    
+    #portfolio{
+       
+       
+    }
+    .portfolio-written-part h1{ 
+       
+        
+    
+    }
+    
+    .portfolio-written-part p{
+    
+    }
+    .menu-part-2 {
+       
+    }
+    .menu-part-2 ul{
+        
+    }
+    .menu-part-2 li{
+        
+    }
+    .menu-part-2 li :hover{
+        
+    
+    }
+    .menu-part-2 a {
+    }
+    
+    .portfolio-box img{
+        width: 80%;
+    }
+    .portfolio-box h3{
+        
+    }
+    .portfolio-box-part button{
+        
+padding: 12px 15px;
+    }
+    #ABOUT{
+       
+        
+    }
+    .ABOUT-box img{
+ 
+    }
+    
+    .ABOUT-box-written{
+        
+    
+    }
+    .about-box-img{
+    
+float: none;
+    
+margin: 20px auto;
+    }
+    .about-writing-box{
+    
+float: none;
+    
+margin: 20px auto;
+    }
+    .about-writing-box h4{
+    
+    }
+    .about-writing-box p{
+    
+    }
+    #getintouch{
+   
+    
+    }
+    
+    .get-in-touch-written-part h1{
+   
+    }
+    
+    .get-in-touch-written-part p{
+      
+    }
+    .get-in-touch-1{
+        
+
+        
+margin: 0px auto;
+    }
+    .form1-part{
+
+        letter-spacing: 10px;
+        padding: 10px 0px;
+    }
+    .form1-part input[type="text"]{
+        width: 60%;
+        background: #273a71;
+        color: #fff;
+        padding: 10px 35px;
+        font-size: 15px;
+        border-radius: 5px;
+    }
+    
+    .form2-part{
+        
+padding: 10px -1px;
+        
+margin: 11px auto;
+        
+
+        
+padding: 0px 0;
+        
+font-size: 0;
+    }
+    .form2-part input[type="email"]{
+        width: 60%;
+        background: #273a71;
+        color: #fff;
+        padding: 10px 25px;
+        font-size: 15px;
+        border-radius: 5px;
+    }
+    .get-in-touch-2 textarea{
+        
+padding: 0px 0px;
+        
+width: 60%;
+        
+border-radius: 7px;
+        
+font-size: 15px;
+    }
+        
+    
+    .get-in-touch-2 input{
+    
+width: 60%;
+    }
+    .get-in-touch-1 ::placeholder{
+        
+       
+    }
+    .get-in-touch-2 ::placeholder{
+       
+        
+    }
+    
+    
+    footer{
+   
+    
+    }
+    footer ul{
+    
+    }
+    footer ul li{
+    
+
+    }
+    footer ul li a{
+        
+font-size: 16px;
+        
+font-weight: 400;
+    }
+    footer ul li :hover{
+        
+    }
+
+}
